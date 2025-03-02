@@ -26,5 +26,13 @@ The primary objective of this project is to retrieve and parse data from externa
 2. JSON keys are extracted to retrieve relevant information (e.g., title, temperature, user details).
 3. The parsed data is then formatted for better readability.
 
+### Step 3: Displaying Data in a Structured Format
+- The extracted information is displayed in the console in a structured manner.
+- Proper formatting ensures that users can easily interpret the output.
+- If an error occurs, an exception handling mechanism prints an error message.
+
+#### Execution Output
+![image](https://github.com/user-attachments/assets/41ca2d27-ad91-431f-be9e-e4c1694dea2c)
+
 
 
