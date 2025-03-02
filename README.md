@@ -5,7 +5,7 @@ The REST API Client is a Java-based application designed to consume public REST 
 The primary objective of this project is to retrieve and parse data from external web services, such as weather updates, user details, or other publicly available datasets. The application was built and executed in IntelliJ IDEA, ensuring a smooth development workflow with proper error handling and structured output formatting.
 
 ## Technology Stack
-● Programming Language: Java
+- Programming Language: Java
 
 ● HTTP Handling: HttpURLConnection, OkHttp (alternative)
 
