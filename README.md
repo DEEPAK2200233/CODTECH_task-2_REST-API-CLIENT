@@ -33,12 +33,12 @@ The primary objective of this project is to retrieve and parse data from externa
 
 #### Execution Output
 ![image](https://github.com/user-attachments/assets/41ca2d27-ad91-431f-be9e-e4c1694dea2c)
-
+---
 ## Key Features Implemented
-REST API Integration – Fetches real-time data from public REST APIs using HTTP requests.
+**REST API Integration** – Fetches real-time data from public REST APIs using HTTP requests.
 JSON Parsing – Extracts and processes relevant information from JSON responses.
 Efficient Data Handling – Uses Java Collections and Streams API for structured data processing.
 Error Handling & Robustness – Implements exception handling to manage API failures and invalid responses.
 Scalability – Designed to handle multiple API requests efficiently for future extensions.
-
+---
 
