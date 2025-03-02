@@ -58,3 +58,9 @@ The primary objective of this project is to retrieve and parse data from externa
 - Issue: Raw API responses were difficult to interpret in the console.
 - Solution: Used structured output formatting and proper indentation for better readability.
 
+## Enhancements for Future Development
+- Support for Multiple API Endpoints – Extend functionality to handle different APIs dynamically.
+- Graphical User Interface (GUI) – Develop a user-friendly GUI for better interaction and visualization.
+- Database Integration – Store API responses in a database for historical analysis and offline access.
+- Caching Mechanism – Implement caching to reduce redundant API calls and improve response time.
+- Advanced Error Handling – Enhance logging and debugging capabilities for better fault tolerance.
