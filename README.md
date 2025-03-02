@@ -41,4 +41,20 @@ The primary objective of this project is to retrieve and parse data from externa
 - Error Handling & Robustness –> Implements exception handling to manage API failures and invalid responses.
 - Scalability –> Designed to handle multiple API requests efficiently for future extensions.
 
+## Challenges Faced & Solutions
+### 1.Handling API Connectivity Issues
+- Issue: API requests sometimes failed due to network issues or server downtime.
+- Solution: Implemented retry mechanisms and proper exception handling to ensure resilience.
+
+### 2.Parsing Complex JSON Responses
+- Issue: Some APIs returned deeply nested JSON structures, making data extraction challenging.
+- Solution: Used the org.json library to navigate and extract required fields efficiently.
+
+### 3.Managing Large API Responses
+- Issue: Fetching large datasets led to slow performance and high memory usage.
+- Solution: Implemented pagination and limited API calls to fetch only necessary data.
+
+### 4.Ensuring Data Formatting & Readability
+- Issue: Raw API responses were difficult to interpret in the console.
+- Solution: Used structured output formatting and proper indentation for better readability.
 
