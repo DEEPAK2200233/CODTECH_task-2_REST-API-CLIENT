@@ -6,10 +6,15 @@ The primary objective of this project is to retrieve and parse data from externa
 
 ## Technology Stack
 ● Programming Language: Java
+
 ● HTTP Handling: HttpURLConnection, OkHttp (alternative)
+
 ● JSON Parsing: org.json library / Gson
+
 ● Development Environment: IntelliJ IDEA / Eclipse
+
 ● Data Processing: Java Collections, Streams API
+
 ● API Used: Public REST APIs (e.g., OpenWeatherMap, JSONPlaceholder)
 
 
